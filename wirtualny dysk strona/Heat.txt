@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Info - Need For Speed: Most Wanted</title>
+  <link rel="stylesheet" href="dysk.css" />
+</head>
+<body class="most-wanted">
+  <div class="overlay">
+    <div class="container" id="main-content">
+      <h1>Need For Speed: Most Wanted - Historia</h1>
+      <p>
+        Need For Speed: Most Wanted to jedna z najpopularniejszych części serii NFS. Wydana w 2005 roku,
+        gra wprowadziła otwarty świat i dynamiczne pościgi policyjne, które do dziś są wzorem dla wielu wyścigówek.
+      </p>
+      <p>
+        Gracze mogli swobodnie eksplorować miasto, rywalizować w różnych wyścigach i unikać policji, co zapewniało ogromną dawkę adrenaliny.
+      </p>
+      <a href="index.html" class="download-button">Powrót do strony głównej</a>
+    </div>
+  </div>
+  <script src="dysk.js"></script>
+</body>
+</html>
